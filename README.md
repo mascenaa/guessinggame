@@ -1,2 +1,2 @@
-# guessinggame
-guessing game created in python
+# Guessing game 🤔
+ Um jogo de adivinhação feito em python.
